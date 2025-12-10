@@ -26,7 +26,7 @@ const config = {
   "header": {
     "tag": "CASE STUDY",
     "title": "How We Helped a Growing Family of 5 Sell Their Ottawa Townhouse in 14 Days and Move Into Their Dream Home Without Carrying Two Mortgages",
-    "subheadline": "Sold Strategically in a Slower Market—Zero Financial Stress, Perfect Timing, and 100x More Land for Their Growing Family"
+    "subheadline": "Sold Strategically in a Slower Market. Zero Financial Stress, Perfect Timing, and 100x More Land for Their Growing Family"
   },
   "mainBox": {
     "summary": {
