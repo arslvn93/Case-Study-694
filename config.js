@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Nicholas Crouch",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Nick",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Nicholas Crouch",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/advantagebrokers/buyerstrategycall",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Their property was in a slower part of Ottawa where homes typically lingered on the market longer than the city average",
         "They needed a fair price—not a desperate fire sale—but speed was just as critical as getting the right number",
         "The financial pressure of double mortgage payments kept them awake at night, turning what should have been an exciting move into a source of constant anxiety"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"\"We are so incredibly happy in our new place. Nick helped us buy this townhouse six years ago, stayed in touch the whole time, and when we were ready to move, there was no question who we'd work with. He understood the pressure we were under with two mortgages hanging over us and made sure everything happened exactly when it needed to. Now we're in a much larger home with 100 times more land for our growing family of five, and we didn't lose a single night's sleep over carrying two properties.\"\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765244254591-11-web-or-mls-18-barn-swallow-private.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -99,7 +97,8 @@ const config = {
         "Secured $605,000—within $4,900 of asking price—proving you don't have to choose between speed and fair value",
         "Negotiated a closing date that synced perfectly with their new home, meaning ZERO days of double mortgage payments",
         "Achieved fewer conditions thanks to the pre-listing inspection, giving the sellers certainty and peace of mind from day one"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -108,7 +107,8 @@ const config = {
         "Staying power beats panic pricing: Strategic pricing in a slower market brought the right buyer quickly without leaving money on the table or creating desperation",
         "Pre-listing inspections aren't just for buyers: Having the inspection done upfront removed obstacles, reduced conditions, and gave our sellers negotiating leverage when timing mattered most",
         "Relationships built over years deliver results in days: When you work with an agent who's invested in you long before the \"for sale\" sign goes up, you get strategy and execution that generic agents simply can't match"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -120,24 +120,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://onereal.ca/pages/privacy-policy"
+    },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/128b0146-47e4-45d6-851a-c24a311aebab?v=3cedb1cc0ec5266e82c958210c3477335c03b6d82eccc39b9dd46ef0dfe6b13c"
+    },
+    "secondaryLogo": {
+      "src": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Real Broker LTD",
     "brokerageAddress": "5-2000 Thurston Drive Ottawa, ON K1G 4K7",
-    "secondaryLogo": {
-      "src": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://onereal.ca/pages/privacy-policy"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-694"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
