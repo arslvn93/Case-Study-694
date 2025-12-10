@@ -57,7 +57,7 @@ const config = {
       "paragraphs": [
         "The clock was ticking: they'd already committed to a new home and couldn't afford to carry two mortgages for more than a few weeks",
         "Their property was in a slower part of Ottawa where homes typically lingered on the market longer than the city average",
-        "They needed a fair price—not a desperate fire sale—but speed was just as critical as getting the right number",
+        "They needed a fair price, not a desperate fire sale, but speed was just as critical as getting the right number",
         "The financial pressure of double mortgage payments kept them awake at night, turning what should have been an exciting move into a source of constant anxiety"
       ],
       "listItems": []
