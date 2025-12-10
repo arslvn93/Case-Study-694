@@ -72,9 +72,6 @@ const config = {
         "Professional photography that showcased the home's best features and made it stand out in a sea of mediocre listings",
         "Coordinated a closing timeline that perfectly aligned with their new home's possession date, eliminating the nightmare scenario of being homeless between properties or carrying both mortgages"
       ],
-      "testimonial": {
-        "quote": "\"\"We are so incredibly happy in our new place. Nick helped us buy this townhouse six years ago, stayed in touch the whole time, and when we were ready to move, there was no question who we'd work with. He understood the pressure we were under with two mortgages hanging over us and made sure everything happened exactly when it needed to. Now we're in a much larger home with 100 times more land for our growing family of five, and we didn't lose a single night's sleep over carrying two properties.\"\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
