@@ -111,7 +111,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Free Strategic Selling Consultation—We'll Show You Exactly How to Sell Quickly Without Sacrificing Price, Even in Today's Market",
+        "headline": "Book Your Free Strategic Selling Consultation. We'll Show You Exactly How to Sell Quickly Without Sacrificing Price, Even in Today's Market",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
