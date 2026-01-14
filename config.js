@@ -37,7 +37,7 @@ const config = {
       "subTitle": "Summary",
       "paragraphs": [
         "Meet a family of five who'd outgrown their 3-bedroom townhouse in Ottawa. Six years ago, they trusted us to help them buy their first home brand new. Now, with their family expanding and a larger property already purchased out of town, they needed to sell fast, but carrying two mortgages wasn't an option.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD IN JUST 14 DAYS in a slower part of the city where comparable homes were sitting for weeks longer. Generated 9 qualified showings from serious buyers, not tire-kickers wasting everyone's time Secured $605,000 within $4,900 of asking price, proving you don't have to choose between speed and fair value. Negotiated a closing date that synced perfectly with their new home, meaning ZERO days of double mortgage payments. Achieved fewer conditions thanks to the pre-listing inspection, giving the sellers certainty and peace of mind from day one."
+        "Through professional service and market expertise, we delivered exceptional results for our client. SOLD IN JUST 14 DAYS in a slower part of the city where comparable homes were sitting for weeks longer. Generated 9 qualified showings from serious buyers, not tire-kickers wasting everyone's time. Secured $605,000 within $4,900 of asking price, proving you don't have to choose between speed and fair value. Negotiated a closing date that synced perfectly with their new home, meaning ZERO days of double mortgage payments. Achieved fewer conditions thanks to the pre-listing inspection, giving the sellers certainty and peace of mind from day one."
       ]
     },
     "sidebar": {
