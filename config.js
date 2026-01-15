@@ -119,7 +119,7 @@ const config = {
   "footer": {
     "privacyPolicy": {
       "text": "Privacy Policy",
-      "href": "https://onereal.ca/pages/privacy-policy"
+      "href": "https://onereal.com/pages/privacy-policy?_gl=1*vgk1dy*_ga*MTcxMzE5MDcyNy4xNzU4NjU4MDA0*_ga_PP8BM8CBST*czE3Njg0OTE0MjgkbzUkZzEkdDE3Njg0OTE0OTckajU0JGwwJGgw"
     },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/128b0146-47e4-45d6-851a-c24a311aebab?v=3cedb1cc0ec5266e82c958210c3477335c03b6d82eccc39b9dd46ef0dfe6b13c"
